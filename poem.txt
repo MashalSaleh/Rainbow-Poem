@@ -4,5 +4,6 @@ Purple
 Pink
 Prange
 Bluc
+Green
 Red
 These are the colors of the rainbow
