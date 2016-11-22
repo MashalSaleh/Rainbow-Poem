@@ -5,6 +5,7 @@ Pink
 Prange
 Bluc
 Green
+Indigo
 unicorn
 
 Yellow
